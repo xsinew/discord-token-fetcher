@@ -65,7 +65,7 @@ python discord_token.py
 
 ### Example Output
 
-![demo review](https://cdn.discordapp.com/attachments/1358485369766678863/1367491701714718740/demo.jpg)
+![demo review](https://media-hosting.imagekit.io/bb87ec004bcb49f9/demo.jpg?Expires=1840716246&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=LFvoJ5BAfeHr~bvWnMN3ie7XFssujHRRI7UJWx7jxVkZK-vs8~fRzAwX6oBHTBZTv9E~s7QkdR6WCvL9xybS2Jom4ty4MEUUyn9uERcbx-D5qU~hVkFDiuV7-lGMCgGuPiA3GPjIVQtU5lD~sWMIL04iMvM~dJ3kH5uu1T6vfCjNkBmy7cVYXyMAGUBvkiDCEs8JSGyikNU4btfD6DKSQwMkcQPM2ZkXu439tkmgDWeT6eF4buNkmNdI6BHAZ-zEbixTh4gYY7ax98oWq4Se4GUq4wpJBBqLS-CtUDbKG8A2sk6JkkagtzAAN6yG3CKIURyVNHANxhws43zpuXtb0g__)
 
 ## ⚙️ Technical Overview
 
@@ -99,4 +99,4 @@ python discord_token.py
 
 For questions you can dm me:
 
-[![Discord](https://img.shields.io/badge/_0vk-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1336772500490686535)
+[![Discord](https://img.shields.io/badge/Rhn-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1336772500490686535)
