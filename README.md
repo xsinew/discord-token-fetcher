@@ -2,8 +2,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/yourusername/discord-token-fetcher/blob/main/LICENSE)
-[![Discord Contact](https://img.shields.io/badge/Discord-User%201336772500490686535-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1336772500490686535)
-
 A Python script demonstrating Discord's authentication flow, supporting both standard and 2FA-protected accounts for educational and research purposes.
 
 ## Table of Contents
@@ -101,4 +99,4 @@ python discord_token.py
 
 For questions you can dm me:
 
-[![Discord Contact](https://img.shields.io/badge/Discord-User%201336772500490686535-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1336772500490686535)
+[![Discord](https://img.shields.io/badge/_0vk-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1336772500490686535)
