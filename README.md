@@ -1,8 +1,7 @@
 # Discord Token Fetcher (With 2FA Support)
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/yourusername/discord-token-fetcher/blob/main/LICENSE)
-A Python script demonstrating Discord's authentication flow, supporting both standard and 2FA-protected accounts for educational and research purposes.
+[![Required Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
+A Python script demonstrating Discord's authentication flow, supporting both standard and 2FA-protected accounts for educational purposes only.
 
 ## Table of Contents
 1. [🌟 Features](#-features)
@@ -42,7 +41,7 @@ By using this code, you acknowledge and accept full responsibility for your acti
 ### Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/RealRahan/discord-token-fetcher.git](https://github.com/RealRahan/discord-token-fetcher.git)
+git clone https://github.com/RealRahan/discord-token-fetcher.git
 cd discord-token-fetcher
 
 # Install the required library
