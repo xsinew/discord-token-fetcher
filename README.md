@@ -1,6 +1,6 @@
 # Discord Token Fetcher (With 2FA Support)
 
-[![Required Python Version]([https://img.shields.io/badge/python-3.8%2B-blue](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=FFD43B)](https://www.python.org/downloads/)
+[![Python ver needed](https://img.shields.io/badge/python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/downloads/)
 
 A Python script demonstrating Discord's authentication flow, supporting both standard and 2FA-protected accounts for educational purposes only.
 
