@@ -6,9 +6,6 @@ def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def display_title():
-    print('\u001b[36m' + '=' * 60 + '\u001b[0m')
-    print('\u001b[36m| \u001b[37mDiscord Token 2fa/non-2fa Fetcher \u001b[36m|\u001b[0m github.com/RealRahan')
-    print('\u001b[36m' + '=' * 60 + '\u001b[0m')
     print()
 
 def get_headers():
